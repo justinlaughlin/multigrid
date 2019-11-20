@@ -1,0 +1,71 @@
+weak scaling test. (N=513,nProc=3), (N=1025,nProc=9), (N=2049,nProc=33)
+Gridpoints per dimension: 513
+Timing for nProcs = 3
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^relative error multigrid (cycle 2): 0.00698433931024
+^^^relative error multigrid (cycle 3): 0.00210984454357
+^^^Time to complete 3 multigrid vcycle(s): 6.918993829
+^^^Time to compute analytic solution: 0.728503888
+^^^Norm of parallel multigrid residual: 899.190277644
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.439014250629
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^relative error multigrid (cycle 2): 0.00698433931024
+^^^relative error multigrid (cycle 3): 0.00210984454357
+^^^Time to complete 3 multigrid vcycle(s): 7.127306396
+^^^Time to compute analytic solution: 0.678849898
+^^^Norm of parallel multigrid residual: 899.190277644
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.437454800411
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^relative error multigrid (cycle 2): 0.00698433931024
+^^^relative error multigrid (cycle 3): 0.00210984454357
+^^^Time to complete 3 multigrid vcycle(s): 7.261925859
+^^^Time to compute analytic solution: 0.696967884
+^^^Norm of parallel multigrid residual: 899.190277644
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.434325052254
+Gridpoints per dimension: 1025
+Timing for nProcs = 9
+^^^relative error multigrid (cycle 1): 0.0784029661562
+^^^relative error multigrid (cycle 2): 0.00783148767509
+^^^relative error multigrid (cycle 3): 0.000737935519941
+^^^Time to complete 3 multigrid vcycle(s): 22.845913877
+^^^Time to compute analytic solution: 2.906083726
+^^^Norm of parallel multigrid residual: 2165.72982716
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.374696677518
+^^^relative error multigrid (cycle 1): 0.0784029661562
+^^^relative error multigrid (cycle 2): 0.00783148767509
+^^^relative error multigrid (cycle 3): 0.000737935519941
+^^^Time to complete 3 multigrid vcycle(s): 22.857348591
+^^^Time to compute analytic solution: 2.886043142
+^^^Norm of parallel multigrid residual: 2165.72982716
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.375688287392
+^^^relative error multigrid (cycle 1): 0.0784029661562
+^^^relative error multigrid (cycle 2): 0.00783148767509
+^^^relative error multigrid (cycle 3): 0.000737935519941
+^^^Time to complete 3 multigrid vcycle(s): 23.339780937
+^^^Time to compute analytic solution: 2.943187629
+^^^Norm of parallel multigrid residual: 2165.72982716
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.371248486089
+Gridpoints per dimension: 2049
+Timing for nProcs = 33
+^^^relative error multigrid (cycle 1): 0.0788226154549
+^^^relative error multigrid (cycle 2): 0.00812769407934
+^^^relative error multigrid (cycle 3): 0.00082703738044
+^^^Time to complete 3 multigrid vcycle(s): 136.287624875
+^^^Time to compute analytic solution: 11.907140554
+^^^Norm of parallel multigrid residual: 4538.01854257
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0927830256443
+^^^relative error multigrid (cycle 1): 0.0788226154549
+^^^relative error multigrid (cycle 2): 0.00812769407934
+^^^relative error multigrid (cycle 3): 0.00082703738044
+^^^Time to complete 3 multigrid vcycle(s): 136.287624875
+^^^Time to compute analytic solution: 11.907140554
+^^^Norm of parallel multigrid residual: 4538.01854257
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0927830256443
+^^^relative error multigrid (cycle 1): 0.0788226154549
+^^^relative error multigrid (cycle 2): 0.00812769407934
+^^^relative error multigrid (cycle 3): 0.00082703738044
+^^^Time to complete 3 multigrid vcycle(s): 136.287624875
+^^^Time to compute analytic solution: 11.907140554
+^^^Norm of parallel multigrid residual: 4538.01854257
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0927830256443
+// last one only ran once. copy-pasted same timings to avoid rewriting parser. still the summation of time over 3 cycles

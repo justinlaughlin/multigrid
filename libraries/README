@@ -1,0 +1,1 @@
+Our code requires the latest (dev) branch of Eigen. Since Eigen is a fairly lightweight header only package it is included here

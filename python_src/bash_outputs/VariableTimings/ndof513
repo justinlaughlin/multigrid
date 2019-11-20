@@ -1,0 +1,461 @@
+
+Gridpoints per dimension: 513
+ 
+Timing for nProcs = 1
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.569231642
+^^^Time to compute analytic solution: 0.691004129
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.649831548
+^^^Time to compute analytic solution: 0.689736582
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.600936022
+^^^Time to compute analytic solution: 0.696905445
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.524636957
+^^^Time to compute analytic solution: 0.659754112
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.565509769
+^^^Time to compute analytic solution: 0.686297229
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0
+ 
+Timing for nProcs = 3
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.881582255
+^^^Time to compute analytic solution: 0.699088017
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.324669321654
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.829025477
+^^^Time to compute analytic solution: 0.688973942
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.325160425291
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.826629164
+^^^Time to compute analytic solution: 0.690582743
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.324089505435
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.921585507
+^^^Time to compute analytic solution: 0.692692838
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.322363224308
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.776109245
+^^^Time to compute analytic solution: 0.66274794
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.340126822415
+ 
+Timing for nProcs = 4
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.53614492
+^^^Time to compute analytic solution: 0.701364677
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.26071196218
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.445876425
+^^^Time to compute analytic solution: 0.682944129
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.263185570736
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.534124169
+^^^Time to compute analytic solution: 0.688484281
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.258010976395
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.444515914
+^^^Time to compute analytic solution: 0.660725872
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.262721167618
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.571900131
+^^^Time to compute analytic solution: 0.711889243
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.256070757939
+ 
+Timing for nProcs = 5
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.479153074
+^^^Time to compute analytic solution: 0.71118391
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.213511999294
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.346051126
+^^^Time to compute analytic solution: 0.676475519
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.221375533499
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.345587894
+^^^Time to compute analytic solution: 0.688576282
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.222513093212
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.557302835
+^^^Time to compute analytic solution: 0.716321509
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.215461184709
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.502792485
+^^^Time to compute analytic solution: 0.724800159
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.212535290541
+ 
+Timing for nProcs = 6
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.414705359
+^^^Time to compute analytic solution: 0.711241283
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.182407825766
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.431202975
+^^^Time to compute analytic solution: 0.727818869
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.183284306705
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.405864236
+^^^Time to compute analytic solution: 0.71692804
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.18459130909
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.460575865
+^^^Time to compute analytic solution: 0.713428411
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.181802626122
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.339619076
+^^^Time to compute analytic solution: 0.700497578
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.184519093645
+ 
+Timing for nProcs = 7
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.41815563
+^^^Time to compute analytic solution: 0.732775328
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.158984375436
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.380358986
+^^^Time to compute analytic solution: 0.702593008
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.165214710852
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.38203985
+^^^Time to compute analytic solution: 0.710755976
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.157557889654
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.398028281
+^^^Time to compute analytic solution: 0.736633689
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.157183483159
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.424673475
+^^^Time to compute analytic solution: 0.720388383
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.153090897119
+ 
+Timing for nProcs = 9
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.418847972
+^^^Time to compute analytic solution: 0.726609845
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.121022451366
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.394472639
+^^^Time to compute analytic solution: 0.739027964
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.120995464007
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.411919845
+^^^Time to compute analytic solution: 0.735164288
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.119332901754
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.365907693
+^^^Time to compute analytic solution: 0.728279624
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.121393261508
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.402287137
+^^^Time to compute analytic solution: 0.73191521
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.120697617212
+ 
+Timing for nProcs = 11
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.425407247
+^^^Time to compute analytic solution: 0.734632369
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0958049205813
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.608422539
+^^^Time to compute analytic solution: 0.814242184
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0902105489155
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.458896664
+^^^Time to compute analytic solution: 0.731057093
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0946807613312
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.42475484
+^^^Time to compute analytic solution: 0.734637377
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0951005771219
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.431721199
+^^^Time to compute analytic solution: 0.734792585
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0949610718443
+ 
+Timing for nProcs = 13
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.45807256
+^^^Time to compute analytic solution: 0.770596491
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0791099315378
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.456557296
+^^^Time to compute analytic solution: 0.737384213
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0778495235207
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.455379034
+^^^Time to compute analytic solution: 0.732441439
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0780074358006
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.463312869
+^^^Time to compute analytic solution: 0.814529818
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0780733598573
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.460981341
+^^^Time to compute analytic solution: 0.737281348
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0775422941876
+ 
+Timing for nProcs = 15
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.526400952
+^^^Time to compute analytic solution: 0.735509234
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0641680571178
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.533831158
+^^^Time to compute analytic solution: 0.73460776
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0644025702705
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.628770695
+^^^Time to compute analytic solution: 0.795488521
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0623434945894
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.525358897
+^^^Time to compute analytic solution: 0.736848609
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0649019283593
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.513128191
+^^^Time to compute analytic solution: 0.74222213
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0647174005617
+ 
+Timing for nProcs = 17
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.585807297
+^^^Time to compute analytic solution: 0.771062136
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0550630343638
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.556030886
+^^^Time to compute analytic solution: 0.738736794
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.054465424604
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.573492788
+^^^Time to compute analytic solution: 0.738191449
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0544734531803
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.608007057
+^^^Time to compute analytic solution: 0.772964028
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0538856487967
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.664607552
+^^^Time to compute analytic solution: 0.776915607
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0541459809708
+ 
+Timing for nProcs = 19
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.75863669
+^^^Time to compute analytic solution: 0.820139994
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0483098200603
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.655833127
+^^^Time to compute analytic solution: 0.741000264
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.046925633331
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.634374863
+^^^Time to compute analytic solution: 0.743614984
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0475085879093
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.770103573
+^^^Time to compute analytic solution: 0.781822734
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0463890063278
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.670460594
+^^^Time to compute analytic solution: 0.739347787
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0496040001027
+ 
+Timing for nProcs = 22
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.870279233
+^^^Time to compute analytic solution: 0.794908214
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0355982464312
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.718384902
+^^^Time to compute analytic solution: 0.885777102
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0373666997912
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.801138029
+^^^Time to compute analytic solution: 0.738804055
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0381715575004
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.728176768
+^^^Time to compute analytic solution: 0.74141516
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0390297929645
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.724634114
+^^^Time to compute analytic solution: 0.727146423
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0385911075437
+ 
+Timing for nProcs = 25
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.017564593
+^^^Time to compute analytic solution: 0.79946422
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0314064074711
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.921918908
+^^^Time to compute analytic solution: 0.73683622
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0331288349783
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.318419722
+^^^Time to compute analytic solution: 0.774022621
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0311002055476
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.664061546
+^^^Time to compute analytic solution: 1.074228071
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0288557261045
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 2.97084769
+^^^Time to compute analytic solution: 0.773110636
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0319256305002
+ 
+Timing for nProcs = 30
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.034525849
+^^^Time to compute analytic solution: 1.085768871
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.02303126077
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.182591991
+^^^Time to compute analytic solution: 1.082453099
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0266557197888
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.150534065
+^^^Time to compute analytic solution: 0.784199762
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0269643681857
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.230015756
+^^^Time to compute analytic solution: 0.74373506
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0259832713011
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.069175452
+^^^Time to compute analytic solution: 0.747413178
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0227978485481
+ 
+Timing for nProcs = 35
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.32098885
+^^^Time to compute analytic solution: 1.077109801
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0191841153958
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.353118696
+^^^Time to compute analytic solution: 1.092012136
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0189631560011
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.828282459
+^^^Time to compute analytic solution: 0.949601512
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0219695763108
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 3.39801557
+^^^Time to compute analytic solution: 0.795699624
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0223358411485
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.360163378
+^^^Time to compute analytic solution: 0.889637375
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0188846284048
+ 
+Timing for nProcs = 45
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.956445773
+^^^Time to compute analytic solution: 1.095825455
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.01382996637
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.956091348
+^^^Time to compute analytic solution: 1.098895728
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0137618252221
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.979375392
+^^^Time to compute analytic solution: 1.100736722
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0137682990839
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.987720614
+^^^Time to compute analytic solution: 1.097692559
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0138159361321
+^^^relative error multigrid (cycle 1): 0.076789294527
+^^^Time to complete 1 multigrid vcycle(s): 4.943659438
+^^^Time to compute analytic solution: 1.098523394
+^^^Norm of parallel multigrid residual: 79527.9900046
+^^^Percentage of time spent on Gauss-Seidel computations out of total time: 0.0138339893591 
